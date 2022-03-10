@@ -4,7 +4,7 @@ Formación con ADF en AYI Group.
 
 Profesor: Paliza, Martín.
 
-Integrantes: Gatica, Emmanuel David.
+Integrantes: Cortez, Gerardo Joaquin.
 
 MaestroDetalle_V11g Ejemplo de MaestroDetalle con Framework ADF.
 Versión ejecutada con el Jdeveloper 11g.
